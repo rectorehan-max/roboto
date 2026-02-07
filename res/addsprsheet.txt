@@ -1,0 +1,20 @@
+; format = (name_of_sprite=path,width_of_frame,height_of_frame,num_of_rows,num_of_cols,max_frames)
+; DON'T PUT SPACES
+
+; PLAYER RUN SPRITES
+
+playerRun_down=../res/ent/player/playerRun_down.png,64,64,1,4,4
+playerRun_downRight=../res/ent/player/playerRun_downRight.png,64,64,1,6,6
+playerRun_downLeft=../res/ent/player/playerRun_downLeft.png,64,64,1,6,6
+playerRun_right=../res/ent/player/playerRun_right.png,64,64,1,6,6
+playerRun_left=../res/ent/player/playerRun_left.png,64,64,1,6,6
+playerRun_up=../res/ent/player/playerRun_up.png,64,64,1,4,4
+playerRun_upLeft=../res/ent/player/playerRun_upLeft.png,64,64,1,6,6
+playerRun_upRight=../res/ent/player/playerRun_upRight.png,64,64,1,6,6
+
+; WALL SPRITE
+desWall=../res/ent/wall/desWall.png,64,64,1,4,4
+
+; TEST
+
+test=../res/test/test.png,64,64,1,4,4

@@ -1,0 +1,4 @@
+size=64,64
+health=2
+damtime=30
+deathanim=15

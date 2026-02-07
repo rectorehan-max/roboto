@@ -1,0 +1,19 @@
+; format - (name_of_sprite=path,width,height)
+; don't put spaces for now
+
+
+; PLAYER SPRITES
+
+idlePlayer_down=../res/ent/player/player_down.png,64,64
+idlePlayer_left=../res/ent/player/player_left.png,64,64
+idlePlayer_leftDown=../res/ent/player/player_leftDown.png,64,64
+idlePlayer_right=../res/ent/player/player_right.png,64,64
+idlePlayer_rightDown=../res/ent/player/player_rightDown.png,64,64
+idlePlayer_up=../res/ent/player/player_up.png,64,64
+idlePlayer_upLeft=../res/ent/player/player_upLeft.png,64,64
+idlePlayer_upRight=../res/ent/player/player_upRight.png,64,64
+
+; WALL SPRITES / BUFFER SPRITES
+
+idleWall=../res/ent/wall/wall2.png,64,64
+damWall=../res/ent/wall/damwall.png,64,64
